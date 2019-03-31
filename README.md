@@ -1,2 +1,5 @@
-# wechat_group_assistant
-微信群助手
+## 微信群助手
+
+### 目的
+学习使用
+go练手
